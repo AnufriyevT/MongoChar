@@ -220,6 +220,5 @@ rs.config()
 
 ```
 
-## Messages screenshot
 
-![Alt text](https://github.com/AnufriyevT/MongoChar/picture.jpg)
+![Messages screenshot](https://github.com/AnufriyevT/MongoChar/blob/master/screenshot.png)
